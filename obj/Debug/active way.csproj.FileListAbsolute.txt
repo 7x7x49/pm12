@@ -1,0 +1,169 @@
+D:\active way\active way\bin\Debug\active way.exe.config
+D:\active way\active way\bin\Debug\active way.exe
+D:\active way\active way\bin\Debug\active way.pdb
+D:\active way\active way\obj\Debug\active way.csproj.AssemblyReference.cache
+D:\active way\active way\obj\Debug\active_way.Properties.Resources.resources
+D:\active way\active way\obj\Debug\active way.csproj.GenerateResource.cache
+D:\active way\active way\obj\Debug\active way.csproj.CoreCompileInputs.cache
+D:\active way\active way\obj\Debug\active way.exe
+D:\active way\active way\obj\Debug\active way.pdb
+D:\active way\active way\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\active way\active way\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\active way\active way\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\active way\active way\bin\Debug\Npgsql.dll
+D:\active way\active way\bin\Debug\System.Buffers.dll
+D:\active way\active way\bin\Debug\System.Collections.Immutable.dll
+D:\active way\active way\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\active way\active way\bin\Debug\System.Memory.dll
+D:\active way\active way\bin\Debug\System.Numerics.Vectors.dll
+D:\active way\active way\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\active way\active way\bin\Debug\System.Text.Encodings.Web.dll
+D:\active way\active way\bin\Debug\System.Text.Json.dll
+D:\active way\active way\bin\Debug\System.Threading.Channels.dll
+D:\active way\active way\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\active way\active way\bin\Debug\System.ValueTuple.dll
+D:\active way\active way\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\active way\active way\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\active way\active way\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\active way\active way\bin\Debug\Npgsql.xml
+D:\active way\active way\bin\Debug\System.Buffers.xml
+D:\active way\active way\bin\Debug\System.Collections.Immutable.xml
+D:\active way\active way\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\active way\active way\bin\Debug\System.Memory.xml
+D:\active way\active way\bin\Debug\System.Numerics.Vectors.xml
+D:\active way\active way\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\active way\active way\bin\Debug\System.Text.Encodings.Web.xml
+D:\active way\active way\bin\Debug\System.Text.Json.xml
+D:\active way\active way\bin\Debug\System.Threading.Channels.xml
+D:\active way\active way\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\active way\active way\bin\Debug\System.ValueTuple.xml
+D:\active way\active way\obj\Debug\active way.csproj.CopyComplete
+D:\active way\active way\obj\Debug\active_way.WinCalories.resources
+D:\active way\active way\obj\Debug\active_way.CountMeaningCalories.resources
+D:\active way\active way\obj\Debug\active_way.WinMain.resources
+D:\active way\active way\obj\Debug\active_way.FirstInfoWin.resources
+D:\active way\active way\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\active way\active way\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\active way\active way\obj\Debug\active_way.WinSleep.resources
+D:\active way\active way\obj\Debug\active_way.WinTask.resources
+D:\active way\active way\obj\Debug\active_way.CountMeaningCaloriesFood.resources
+D:\active way\active way\obj\Debug\active_way.CountVWater.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active way.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active way.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active way.exe
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active way.pdb
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\active way.exe.config
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\active way.exe
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\active way.pdb
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\Microsoft.Azure.Amqp.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\Npgsql.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Buffers.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Memory.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Text.Json.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Threading.Channels.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.ValueTuple.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\Microsoft.Azure.Amqp.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\Npgsql.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Buffers.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Memory.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Text.Json.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Threading.Channels.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\System.ValueTuple.xml
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.CountMeaningCalories.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.CountMeaningCaloriesFood.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.CountVWater.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.FirstInfoWin.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.WinCalories.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.Properties.Resources.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.WinMain.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.WinSleep.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.WinTask.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active way.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active way.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active way.csproj.CopyComplete
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\NCalc.dll
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.WinTranslete.resources
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\YandexTranslateCSharpSdk.dll
+C:\Users\Acer\Downloads\active_way\active way\bin\Debug\YandexTranslate.dll
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.Regestration.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.Profil.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.Avatar.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.RoundClock.resources
+C:\Users\Acer\Downloads\active_way\active way\obj\Debug\active_way.UserControl1.resources
+D:\деплом\active way\obj\Debug\active way.csproj.AssemblyReference.cache
+D:\деплом\active way\obj\Debug\active way.exe
+D:\деплом\active way\obj\Debug\active way.pdb
+D:\деплом\active way\bin\Debug\active way.exe.config
+D:\деплом\active way\bin\Debug\active way.exe
+D:\деплом\active way\bin\Debug\active way.pdb
+D:\деплом\active way\bin\Debug\Microsoft.Azure.Amqp.dll
+D:\деплом\active way\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\деплом\active way\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\деплом\active way\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\деплом\active way\bin\Debug\NCalc.dll
+D:\деплом\active way\bin\Debug\Newtonsoft.Json.dll
+D:\деплом\active way\bin\Debug\Npgsql.dll
+D:\деплом\active way\bin\Debug\System.Buffers.dll
+D:\деплом\active way\bin\Debug\System.Collections.Immutable.dll
+D:\деплом\active way\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\деплом\active way\bin\Debug\System.Memory.dll
+D:\деплом\active way\bin\Debug\System.Numerics.Vectors.dll
+D:\деплом\active way\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\деплом\active way\bin\Debug\System.Text.Encodings.Web.dll
+D:\деплом\active way\bin\Debug\System.Text.Json.dll
+D:\деплом\active way\bin\Debug\System.Threading.Channels.dll
+D:\деплом\active way\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\деплом\active way\bin\Debug\System.ValueTuple.dll
+D:\деплом\active way\bin\Debug\YandexTranslate.dll
+D:\деплом\active way\bin\Debug\YandexTranslateCSharpSdk.dll
+D:\деплом\active way\bin\Debug\Microsoft.Azure.Amqp.xml
+D:\деплом\active way\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\деплом\active way\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\деплом\active way\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\деплом\active way\bin\Debug\Newtonsoft.Json.xml
+D:\деплом\active way\bin\Debug\Npgsql.xml
+D:\деплом\active way\bin\Debug\System.Buffers.xml
+D:\деплом\active way\bin\Debug\System.Collections.Immutable.xml
+D:\деплом\active way\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\деплом\active way\bin\Debug\System.Memory.xml
+D:\деплом\active way\bin\Debug\System.Numerics.Vectors.xml
+D:\деплом\active way\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\деплом\active way\bin\Debug\System.Text.Encodings.Web.xml
+D:\деплом\active way\bin\Debug\System.Text.Json.xml
+D:\деплом\active way\bin\Debug\System.Threading.Channels.xml
+D:\деплом\active way\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\деплом\active way\bin\Debug\System.ValueTuple.xml
+D:\деплом\active way\obj\Debug\active_way.Avatar.resources
+D:\деплом\active way\obj\Debug\active_way.CountMeaningCalories.resources
+D:\деплом\active way\obj\Debug\active_way.CountMeaningCaloriesFood.resources
+D:\деплом\active way\obj\Debug\active_way.FirstInfoWin.resources
+D:\деплом\active way\obj\Debug\active_way.Profil.resources
+D:\деплом\active way\obj\Debug\active_way.Regestration.resources
+D:\деплом\active way\obj\Debug\active_way.WinCalories.resources
+D:\деплом\active way\obj\Debug\active_way.Properties.Resources.resources
+D:\деплом\active way\obj\Debug\active_way.WinMain.resources
+D:\деплом\active way\obj\Debug\active_way.WinTask.resources
+D:\деплом\active way\obj\Debug\active_way.WinTranslete.resources
+D:\деплом\active way\obj\Debug\active way.csproj.GenerateResource.cache
+D:\деплом\active way\obj\Debug\active way.csproj.CoreCompileInputs.cache
+D:\деплом\active way\obj\Debug\active way.csproj.CopyComplete
